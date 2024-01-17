@@ -1,0 +1,12 @@
+var umair = "Great"
+
+function main() {
+    print("Hello Air")
+}
+
+
+function add(a string, b string) {
+    return a + b
+}
+
+var sample = 20
